@@ -1,2 +1,2 @@
 # my-collectbook
-my collect book,paper,slides,video
+my collect about book,paper,slides,video,meeting,conference
