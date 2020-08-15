@@ -1,0 +1,1 @@
+https://michaelfeathers.silvrback.com/10-papers-every-developer-should-read-at-least-twice
